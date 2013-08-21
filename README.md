@@ -5,3 +5,4 @@ Installs, updates and publishes pastebin programs. Works in tandem with the CPM-
 Planned Features:
 - Integration with Turtlescripts.com
 - Integration with CPM-Repository
+- Dependencies
